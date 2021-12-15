@@ -11,5 +11,5 @@ Um relógio online desenvolvido para treinar as habilidades com a função Date 
 - HTML
 - CSS
 
-#N ivel de conhecimento:
+# Nivel de conhecimento:
 - Básico ( projeto para iniciantes)
